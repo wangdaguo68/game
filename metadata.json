@@ -1,0 +1,5 @@
+{
+  "name": "Peach Sweeper",
+  "description": "A cute, peach-themed puzzle game based on Minesweeper, featuring an AI assistant.",
+  "requestFramePermissions": []
+}
